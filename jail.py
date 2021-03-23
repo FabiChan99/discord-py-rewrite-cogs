@@ -1,7 +1,8 @@
 # import
 
 
-from Utils.data import *
+import discord
+from discord import commands
 
 
 # class
